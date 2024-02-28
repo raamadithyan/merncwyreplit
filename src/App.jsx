@@ -9,7 +9,7 @@ import CreateUser from './CreateUser'
 export default function App() {
   return (
     <main>
-      home page
+      PUSHED FROM MOBILE
       <Routes>
         <Route path='/create' element={<CreateUser/>} />
       </Routes>
